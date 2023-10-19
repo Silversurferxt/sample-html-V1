@@ -1,8 +1,8 @@
-name: sample-html-v1
+name: sample-html-V1
 static_sites:
 - environment_slug: html
   github:
     branch: main
     deploy_on_push: true
-    repo: digitalocean/sample-html-v1
-  name: sample-html-v1
+    repo: digitalocean/sample-html-V1
+  name: sample-html-V1
